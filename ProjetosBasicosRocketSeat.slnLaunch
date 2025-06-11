@@ -1,0 +1,31 @@
+[
+  {
+    "Name": "Abrir todos projetos",
+    "Projects": [
+      {
+        "Path": "ConsoleApp1\\ReadNameProject.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ConcatNameProject\\ConcatNameProject.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ConsoleApp2\\CalculatorProject.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CalculateStringLength\\CalculateStringLength.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VerifyLicensePlate\\VerifyLicensePlate.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "RequestDateFormats\\RequestDateFormats.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
